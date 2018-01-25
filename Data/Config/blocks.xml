@@ -21033,7 +21033,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomSnowBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21050,7 +21050,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomSnowBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21077,7 +21077,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomDesertBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21094,7 +21094,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomDesertBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21121,7 +21121,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomBurntBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21138,7 +21138,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomBurntBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21178,7 +21178,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomCarLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="180" /> <!-- Amount of ingame days to wait for respawn, 60 equals 1 day -->
+		<property name="PlantGrowing.GrowthRate" value="420" /> <!-- Amount of ingame days to wait for respawn, 60 equals 1 day -->
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21205,7 +21205,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>
@@ -21222,7 +21222,7 @@ kind of free
 		<drop event="Destroy" count="0" />	
 		<property name="IsTerrainDecoration" value="true" />
 		<property name="PlantGrowing.Next" value="CustomBoulderLootHelper" />
-		<property name="PlantGrowing.GrowthRate" value="45" />
+		<property name="PlantGrowing.GrowthRate" value="420" />
 		<property name="PlantGrowing.FertileLevel" value="0" />
 		<property name="PlantGrowing.IsRandom" value="false" />
 </block>

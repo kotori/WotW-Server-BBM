@@ -21237,4 +21237,6 @@ kind of free
 		<property name="SellableToTrader" value="false"/>
 </block>
 
+<!-- See https://github.com/kotori/WotW-Server-BBM for updates to respawn code. -->
+
 </blocks><!-- Block limit: No block can have an ID greater 2047. -->

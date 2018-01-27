@@ -771,7 +771,8 @@ Mesh files no longer used:
 		<property name="Crosshair_min_distance" value="13"/> <!-- 13 -->
 		<property name="Crosshair_max_distance" value="16"/> <!-- 16 -->
 		<property name="Magazine_size" value="30"/>
-		<property name="Magazine_items" value="762mmBullet"/>
+		<!-- KOTORI MOD -->
+		<property name="Magazine_items" value="762mmBullet,762mmHollowPointBullet" />
 		<property name="Magazine_item_ray_counts" value="1"/>
 		<property name="Magazine_item_ray_spreads" value="0"/>
 		<property name="Reload_time" value="3.9"/>

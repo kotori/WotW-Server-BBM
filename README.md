@@ -4,6 +4,9 @@
 This is a copy of the official War of the Walkers Mod w/ BBM. There are a few adjustments that have been made:
 - Backpack size has been adjusted on death so all items can fit.
 - Tungsten Block's strength has been upgraded from 12500hp to 17500hp and its structural integrity has been improved.
+- Adjusted the AK47 so it can now use 7.62 rounds.
+
+Extras:
 - Added vehicle respawning to keep players from wiping vehicles off the map, this is on a 7 days timer (can be adjusted).
 - Added above-ground boulder respawning for all biomes, this is on a 7 days timer (this can also be adjusted).
 

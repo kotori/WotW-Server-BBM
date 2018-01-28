@@ -20202,43 +20202,6 @@ kind of free
 	<drop event="Destroy" count="0"/>
 </block>
 
-<block id="1967" name="arch_3m_windowTEST">
-	<property name="CreativeMode" value="Dev"/>
-	<property name="Material" value="glass"/>
-	<property name="Shape" value="New"/>
-	<property name="Model" value="arch_3m_window"/>
-	<property name="Texture" value="171,532,171,171,171,171"/>
-	<drop event="Destroy" count="0"/>
-</block>
-
-<block id="1968" name="arch_3m_center_windowTEST">
-	<property name="CreativeMode" value="Dev"/>
-	<property name="Material" value="glass"/>
-	<property name="Shape" value="New"/>
-	<property name="Model" value="arch_3m_center_window"/>
-	<property name="Texture" value="171,532,171,171,171,171"/>
-	<drop event="Destroy" count="0"/>
-</block>
-
-<block id="1969" name="arch_3m_window_tipTEST">
-	<property name="CreativeMode" value="Dev"/>
-	<property name="Material" value="glass"/>
-	<property name="Shape" value="New"/>
-	<property name="Model" value="arch_3m_window_tip"/>
-	<property name="Texture" value="171,532,171,171,171,171"/>
-	<drop event="Destroy" count="0"/>
-</block>
-
-<block id="1970" name="arch_3m_full_TEST">
-	<property name="CreativeMode" value="Dev"/>
-	<property name="Material" value="glass"/>
-	<property name="Shape" value="New"/>
-	<property name="Model" value="arch_3m_full"/>
-	<property name="Texture" value="171"/>
-	<property name="MultiBlockDim" value="3,2,1"/>
-	<drop event="Destroy" count="0"/>
-</block>
-
 <!--
 <block id="1971" name="electricFence">
 	<property name="Material" value="Mmetal_medium"/>
